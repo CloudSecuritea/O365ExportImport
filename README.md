@@ -24,6 +24,6 @@ Defender for Endpoint
 Defender for Office 365
 Microsoft Cloud App Security
 Microsoft Information Protection
-Microsoft 365 developer program
+Microsoft 365 developer program 
 
 I was contemplating adding one Microsoft 365 E5 license for testing and updating the configuration for my personal tenant. A Microsoft 365 developer subscription doesn’t have Defender for Endpoint and I really want that functionality in my test environment. I decided to add the Defender for Endpoint add-on to the developer tenant as a trial which is active for 3 months. The developer tenant also has 25 licenses which will make testing easier between users. I’ve created my developer tenant the first moment we were able to create an E5 tenant as it was E3 previously and I’ve got 68 days remaining until Microsoft will verify my activity and decide if I can use it for 120 more days. Interested in a Microsoft 365 E5 tenant to test your solutions for the Microsoft 365 platform? Go to Developer Program - Microsoft 365 and join now with your personal Outlook account or a business account.

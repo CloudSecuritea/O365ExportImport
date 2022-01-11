@@ -75,7 +75,7 @@ $Body = @{
 ########################
 
 $HeaderParams = @{
-  'Content-Type'  = "application\json"
+  'Content-Type'  = "application/json"
   'Authorization' = "Bearer $($ConnectGraph.access_token)"
 }
 
